@@ -1,0 +1,11 @@
+/Json/
+/HttpNetworkTransport/
+/WebServer/
+/Http/
+/SystemAbstractions/
+/Utf8/
+/MessageHeaders/
+/build/
+
+/Uri/
+/googletest/
